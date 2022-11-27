@@ -1,0 +1,1 @@
+# My KiCad footprints and symbols libraries
